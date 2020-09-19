@@ -17,7 +17,7 @@
 }
 
 .leftmenu{
-	width: 50%;
+	width: 40%;
 	line-height: 100px;
 	float: left;
 }
@@ -31,12 +31,12 @@
 
 .rightmenu{
 	float: right;
-	width: 50%;
+	width: 60%;
 	line-height: 80px;
 }
 
 .rightmenu ul{
-	margin-left: 300px;
+	margin-left: 50px;
 }
 
 .rightmenu ul li{
@@ -44,12 +44,13 @@
 	color: white;
 	font-weight: bold;
 	line-height: 80px;
-	font-size: 40px;
+	display: inline-block;
+	font-size: 30px;
 }
 
 .text{
 	width: 100%;
-	margin-top: 250px;
+	margin-top: 200px;
 	text-transform: uppercase;
 	text-align: center;
 	color: white;
@@ -66,14 +67,18 @@
 .text h1{
 	margin-bottom: 20px;
 	margin-top: 20px;
-	font-size: 50px;
+	font-size: 60px;
 	font-weight: bold;
+}
+.text h3{
+	font-weight: bold;
+	font-size: 40px;
 }
 
 #button1{
-	font-size: 20px;
-	line-height: 40px;
-	width: 140px;
+	font-size: 40px;
+	line-height: 100px;
+	width: 340px;
 	border-color: white;
 	background-color: transparent;
 	margin-top: 30px;
@@ -84,13 +89,18 @@
 
 
 #button2{
-	font-size: 20px;
-	line-height: 40px;
-	width: 200px;
+	font-size: 40px;
+	line-height: 100px;
+	width: 340px;
 	border-color: white;
 	background-color: transparent;
 	margin-top: 30px;
 	border:3px solid white;
     color: white;
 
+}
+
+.text h4{
+	font-weight: bold;
+	font-size: 30px;
 }
