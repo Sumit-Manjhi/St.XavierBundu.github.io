@@ -43,13 +43,13 @@
 	margin-left: 80px;
 	color: white;
 	font-weight: bold;
-	display: inline-block;
 	line-height: 80px;
+	font-size: 40px;
 }
 
 .text{
 	width: 100%;
-	margin-top: 180px;
+	margin-top: 250px;
 	text-transform: uppercase;
 	text-align: center;
 	color: white;
