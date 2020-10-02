@@ -112,8 +112,7 @@
 	background-size: cover;
 }
 .menu2{
-
-	border: 6px solid red;
+    border: 8px solid red;
 	height: 200px;
 	width: 99%;
 	background-color: rgba(0,0,0,0.5);
@@ -131,13 +130,12 @@
 }
 .paragraph p{
 	margin-left: 50px;
-     border: 2px solid red;
      margin-top: 50px;
      margin-right: 50px;
      height: 300px;
      text-align: center;
      font-weight: bold;
-     font-size: 20px;
+     font-size: 40px;
      line-height: 50px;
      color: white;
 
@@ -151,4 +149,62 @@
 	margin-top: 20px;
 	border:3px solid white;
     color: white;
+}
+.euler{
+	background-image: url(brain.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	width: 100%;
+}
+.menu3{
+	height: 100px;
+	width: 40%;
+    border: 4px solid red;
+    background-color: rgba(0,0,0,0.5);
+}
+.menu3 h3{
+	font-weight: bold;
+	font-size: 50px;
+	color: white;
+	line-height: 100px;
+	text-align: center;
+}
+.parag {
+    width: 100%;
+    text-align: center;
+   
+}
+.parag p{
+    color: white;
+    text-align: center;
+   margin-top: 100px;
+
+}
+#goback{
+	font-size: 20px;
+	line-height: 50px;
+	width: 170px;
+	border-color: white;
+	background-color: transparent;
+	margin-top: 20px;
+	border:3px solid white;
+    color: white;
+}
+.protabel{
+   border: 5px solid red;
+   border-collapse: collapse;
+   width: 100%;
+   height: 50vh;
+  
+}
+.protabel tr{
+	background-color: white;
+    color: red;
+    width: 100%;
+    height: 20px;
+}
+.protabel tr,th,td{
+  padding: 6px;
+  text-align: left;
 }
